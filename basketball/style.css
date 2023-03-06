@@ -12,7 +12,7 @@
     border-radius: 15px;
 }
 
-#homescore {
+.homescore {
     width: 250px;
     height: 150px;
     border: 2px solid black;
@@ -25,7 +25,7 @@
     font-size: 90px;
 }   
 
-#awayscore {
+.awayscore {
     width: 250px;
     height: 150px;
     border: 2px solid black;

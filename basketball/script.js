@@ -1,5 +1,5 @@
-let homeboard = document.getElementById("homescore")
-let awayboard = document.getElementById("awayscore")
+let homeboard = document.getElementsByClassName("homescore")[0]
+let awayboard = document.getElementsByClassName("awayscore")[0]
 let hcount = 0
 let acount = 0
 
